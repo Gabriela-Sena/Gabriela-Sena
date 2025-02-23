@@ -1,13 +1,3 @@
-## Hello! 👋 I'm Gabriela, President of Forcetech Jr Soluções, 1st Junior Company of the Federal Institute of Paraná (IFPR).
-
-🚀 With more than 3 years of experience, I have improved my prototyping skills at a high level. My journey involves using the Figma tool to design, develop and deploy solutions to users, while obtaining feedback on the usability of our systems.
-
-👨‍🏭 Leading and guiding teams, I also manage the junior company with the directors, implementing project execution and demand management tools, achieving satisfactory results that contribute to the professional growth of our members!
-
-🛠️ My development toolkit includes Java, C, C#, HTML, CSS, Javascript and Wordpress. I use Postgres, MySQL and SQLite databases.
-
-🧠 When it comes to problem solving, my Agile mindset stands out, adapting perfectly to different methodologies. My ability to break down complex technical issues into clear, digestible explanations allows me to effortlessly bridge the gap between technology and business.
-
 
 [![Linkedin: Gabriela](https://img.shields.io/badge/-Gabriela-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Gabriela-Sena/)](https://www.linkedin.com/in/gabriela-sena-da-silva-7357b2236/)
 [![GitHub Gabriela](https://img.shields.io/github/followers/Gabriela-Sena?label=follow&style=social)](https://github.com/Gabriela-Sena)
